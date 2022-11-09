@@ -20,7 +20,7 @@ function App() {
   };
   return (
     <main className=" bg-Verylightgrayishblue flex h-[100vh] flex-col  justify-center ">
-      <div className="container shadow-lg p-5 bg-White2 md:w-[680px] w-[375px] mx-auto ">
+      <div className="container shadow-lg p-5 md:p-8 bg-White2 md:w-[680px] w-[375px] mx-auto ">
         <div className="flex justify-between items-center">
           <h1 className=" text-2xl font-Plus font-[800] ">
             Notifications{" "}
