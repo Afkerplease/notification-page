@@ -15,6 +15,9 @@ module.exports = {
         Darkgrayishblue: "hsl(219, 12%, 42%)",
         Verydarkblue: "hsl(224, 21%, 14%)",
       },
+      fontFamily: {
+        Plus: ["Plus Jakarta Sans"],
+      },
     },
   },
   plugins: [],
